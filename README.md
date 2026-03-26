@@ -81,3 +81,7 @@ This project is a simple example of **combinational logic design in Verilog**.
 - How select lines control data flow
 - How to write and test basic RTL modules
 - How to build clean beginner-friendly VLSI portfolio projects
+
+## Simulation Output
+
+![Simulation Output](verilog8to1mux.png)
