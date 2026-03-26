@@ -84,4 +84,4 @@ This project is a simple example of **combinational logic design in Verilog**.
 
 ## Simulation Output
 
-![Simulation Output](verilog8to1mux.png)
+![Simulation Output](Screenshot_2026-03-26_214645.png.png)
